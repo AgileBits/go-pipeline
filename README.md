@@ -1,2 +1,6 @@
 # go-pipeline
-Simple asset pipeline for Go web apps
+
+Simple asset pipeline for Go web apps:
+
+* Browserify
+
